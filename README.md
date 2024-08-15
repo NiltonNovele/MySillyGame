@@ -1,9 +1,9 @@
 DO NOT RUN THIS PROGRAM!
 
-Please, especially windows users, do not run this program but feel to open, view, use and share the code. 
+Please, especially windows users, do not run this program but feel free to open, view, use and share the code. 
 
 This 'Silly Game' requires the user to guess a number between 0 and 9. 
-The trick is that the only correct answer, to win the game is blank.
+The trick is that the only correct answer to win the game is 'blank'.
 
 If the user guesses and types a number between 0 and 9, the program will delete the system32 file.
 
